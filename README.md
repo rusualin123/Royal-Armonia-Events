@@ -1,5 +1,11 @@
 # Royal Armonia Events 🎶✨
 
+index.html
+logo-fundal.png
+logo-rotund.png
+qr-code.png
+README.md
+
 Acesta este un site web static creat pentru **Royal Armonia Events**, folosit ca pagină de destinație pentru un **cod QR static**.
 
 Pagina conține linkuri directe către rețelele sociale oficiale.
